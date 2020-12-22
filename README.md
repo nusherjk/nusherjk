@@ -9,7 +9,7 @@ Strong in design and integration  with intuitive problem-solving skills. Profici
 - 🔭 I’m currently working on ... Deep learning, pattern Recognition, Computer vision, Django Rest framework, python. 
 - 🌱 I’m currently learning ... ReactJS.
 - 📫 How to reach me: ... Send me an email nusher.kazi@northsouth.edu
-- ⚡ Fun fact: ... That Aaquafina bottle is not sponsored.(DUH!)
+
 <!--
 **nusherjk/nusherjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
