@@ -4,7 +4,7 @@
 I am Nusher Jamil Kazi.
 
 Strong in design and integration  with intuitive problem-solving skills. Proficient in PYTHON and DJANGO . Passionate about implementing and launching new projects.
-Currently working as an software developer in Mercantile Bank Inhouse Software Development Team in MBL IT Division.
+Currently working as a software developer in Mercantile Bank Inhouse Software Development Team in MBL IT Division.
 
 
 - 🔭 I’m currently working on ... Deep learning, pattern Recognition, Computer vision, Django Rest framework, python. 
