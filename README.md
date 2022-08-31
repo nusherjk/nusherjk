@@ -3,11 +3,12 @@
 
 I am Nusher Jamil Kazi.
 
-Strong in design and integration  with intuitive problem-solving skills. Proficient in PYTHON and DJANGO . Passionate about implementing and launching new projects. Looking for a career as an entry-level software engineer with a reputed firm driven by technology.
+Strong in design and integration  with intuitive problem-solving skills. Proficient in PYTHON and DJANGO . Passionate about implementing and launching new projects.
+Currently working as an software developer in Mercantile Bank Inhouse Software Development Team in MBL IT Division.
 
 
 - 🔭 I’m currently working on ... Deep learning, pattern Recognition, Computer vision, Django Rest framework, python. 
-- 🌱 I’m currently learning ... ReactJS.
+- 🌱 I’m currently learning ... Spring MVC Framework.
 - 📫 How to reach me: ... Send me an email nusher.kazi@northsouth.edu
 
 <!--
