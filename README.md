@@ -9,7 +9,7 @@ Currently working as a software developer in Mercantile Bank Inhouse Software De
 
 - 🔭 I’m currently working on ... Deep learning, pattern Recognition, Computer vision, Django Rest framework, python. 
 - 🌱 I’m currently learning ... Spring MVC Framework.
-- 📫 How to reach me: ... Send me an email nusher.kazi@northsouth.edu
+- 📫 How to reach me: ... Send me an email nusherjk@gmail.com 
 
 <!--
 **nusherjk/nusherjk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
